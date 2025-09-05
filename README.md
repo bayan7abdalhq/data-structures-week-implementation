@@ -1,6 +1,6 @@
 # data-structures-week-implementation
 
-══════════════════════════════════════ Data Structures ══════════════════════════════════════
+══════════════════════ Data Structures ══════════════════════
 
 📌 **Overview**  
 This repository contains implementations of fundamental data structures in Java.  
